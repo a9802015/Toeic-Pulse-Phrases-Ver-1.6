@@ -1,0 +1,11 @@
+{
+	"appId": "com.toeicpulse.phrase",
+	"appName": "TOEIC Pulse 片語",
+	"webDir": "dist",
+	"server": {
+		"androidScheme": "https"
+	},
+	"android": {
+		"allowMixedContent": true
+	}
+}
